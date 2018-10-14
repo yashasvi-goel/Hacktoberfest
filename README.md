@@ -15,7 +15,15 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
 
   * **Manuel Gil** - *Initial work* - [ManuelGil](https://github.com/ManuelGil)
   * **Michał Krychniak** - *First steps...* - [KauczukoweJajo](https://github.com/KauczukoweJajo)
-  * **Emmanuel Arias ** - *Some PRs* - [eamanu](https://github.com/eamanu) 
+  * **Emmanuel Arias** - *Some PRs* - [eamanu](https://github.com/eamanu) 
+  * **dhaveed** - *Some PRs* - [eamanu](https://github.com/dhaveed)
+  * **Veena Ghorakavi (Emma)** - *Some PRs* - [eamanu](https://github.com/vghorakavi)
+  * **Gerardo Cruz** - *Some PRs* - [eamanu](https://github.com/NotZombieFood)
+  * **Baltazar Gomez** - *Some PRs* - [eamanu](https://github.com/btzr-io)
+  * **Matthew McCarrison** - *Some PRs* - [eamanu](https://github.com/mattmcc97)
+  * **JoaoRacedo** - *Some PRs* - [eamanu](https://github.com/JoaoRacedo)
+  * **Syawadhilah Praditpa** - *Some PRs* - [eamanu](https://github.com/fauzipradipta)
+  * **D1L4Y** - *Some PRs* - [eamanu](https://github.com/d1l4y)
   
-See also the list of [contributors](https://github.com/ManuelGil/REST-Api-with-Slim-PHP/contributors)
+See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
