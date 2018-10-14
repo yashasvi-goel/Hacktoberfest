@@ -14,7 +14,8 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
 ## :eyeglasses: Contributors
 
   * **Manuel Gil** - *Initial work* - [ManuelGil](https://github.com/ManuelGil)
-  * **Michał Krychniak** - *First steps...* - [KauczukoweJajo](https://github.com/KauczukoweJajo) 
+  * **Michał Krychniak** - *First steps...* - [KauczukoweJajo](https://github.com/KauczukoweJajo)
+  * **Emmanuel Arias ** - *Some PRs* - [eamanu](https://github.com/eamanu) 
   
 See also the list of [contributors](https://github.com/ManuelGil/REST-Api-with-Slim-PHP/contributors)
  who participated in this project.
