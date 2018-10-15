@@ -24,6 +24,7 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **JoaoRacedo** - *Some PRs* - [eamanu](https://github.com/JoaoRacedo)
   * **Syawadhilah Praditpa** - *Some PRs* - [eamanu](https://github.com/fauzipradipta)
   * **D1L4Y** - *Some PRs* - [eamanu](https://github.com/d1l4y)
+  * **Trust Jamin** - *First Contribution* - [trustjamin](https://github.com/trustjamin)
   
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
