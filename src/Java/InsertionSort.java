@@ -41,3 +41,4 @@ class InsertionSort
           
         printArray(arr); 
     }
+
