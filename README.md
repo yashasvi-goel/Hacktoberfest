@@ -35,6 +35,12 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **Abhilash Neog** - [abhilash97](https://github.com/abhilash97)
   * **Justine Clemente** - [JstnClmnt](https://github.com/JstnClmnt)
   * **Alejandro López** - [aleva90](https://github.com/aleva90)
+  * **geethya1995** - [geethya1995](https://github.com/geethya1995)
+  * **Sangwon Kim** - [pueue](https://github.com/pueue)
+  * **Adalberto Caldeira Brant Filho** - [adalbertobrant](https://github.com/adalbertobrant)
+  * **aurihona** - [aurihona](https://github.com/aurihona)
+  * **Gabriel Cunha** - [cunhazera](https://github.com/cunhazera)
+  * **Hiren Chauhan** - [hirenchauhan2](https://github.com/hirenchauhan2)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
