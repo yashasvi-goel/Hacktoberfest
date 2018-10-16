@@ -41,6 +41,7 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **aurihona** - [aurihona](https://github.com/aurihona)
   * **Gabriel Cunha** - [cunhazera](https://github.com/cunhazera)
   * **Hiren Chauhan** - [hirenchauhan2](https://github.com/hirenchauhan2)
+  * **Amit Chauhan** - [me-singh](https://github.com/me-singh)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
