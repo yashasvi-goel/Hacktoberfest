@@ -14,6 +14,7 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
 ## :eyeglasses: Contributors
 
   * **Manuel Gil** - *Initial work* - [ManuelGil](https://github.com/ManuelGil)
+  * **Josh Edewa** - [edewajosh](https://github.com/edewajosh)
   * **Michał Krychniak** - [KauczukoweJajo](https://github.com/KauczukoweJajo)
   * **Emmanuel Arias** - [eamanu](https://github.com/eamanu)
   * **dhaveed** - [dhaveed](https://github.com/dhaveed)
