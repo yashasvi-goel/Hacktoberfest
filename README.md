@@ -14,6 +14,7 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
 ## :eyeglasses: Contributors
 
   * **Manuel Gil** - *Initial work* - [ManuelGil](https://github.com/ManuelGil)
+  * **Josh Edewa** - [edewajosh](https://github.com/edewajosh)
   * **Michał Krychniak** - [KauczukoweJajo](https://github.com/KauczukoweJajo)
   * **Emmanuel Arias** - [eamanu](https://github.com/eamanu)
   * **dhaveed** - [dhaveed](https://github.com/dhaveed)
@@ -41,6 +42,7 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **aurihona** - [aurihona](https://github.com/aurihona)
   * **Gabriel Cunha** - [cunhazera](https://github.com/cunhazera)
   * **Hiren Chauhan** - [hirenchauhan2](https://github.com/hirenchauhan2)
+  * **Amit Chauhan** - [me-singh](https://github.com/me-singh)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
