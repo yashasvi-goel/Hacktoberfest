@@ -57,6 +57,7 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **JainAditi** - [JainAditi](https://github.com/JainAditi)
   * **Dan Kolb** - [dankolbrs](https://github.com/dankolbrs)
   * **Hyunwoo Kim** - [khw1031](https://github.com/khw1031)
+  * **Danil Rodin** - [CrewsyCrews](https://github.com/CrewsyCrews)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
