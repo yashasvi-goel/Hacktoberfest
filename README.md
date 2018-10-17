@@ -62,6 +62,7 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **Nguyen Phuc Lam** - [lamnguyen2187](https://github.com/lamnguyen2187)
   * **Go Kal** - [t-gok](https://github.com/t-gok)
   * **Satyajit Pradhan** - [Satyajiit](https://github.com/satyajiit)
+  * **liquidator007** - [liquidator007](https://github.com/liquidator007)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
