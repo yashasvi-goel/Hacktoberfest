@@ -54,7 +54,8 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **Abhishek Kumar** - [itisabhishekkumar](https://github.com/itisabhishekkumar)
   * **Rogelio Orts** - [rogelio-o](https://github.com/rogelio-o)
   * **Ruby Andy Hightower** - [hiiightower](https://github.com/hiiightower)
-
+  * **JainAditi** - [JainAditi](https://github.com/JainAditi)
+  * **Dan Kolb** - [dankolbrs](https://github.com/dankolbrs)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
