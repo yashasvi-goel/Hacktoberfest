@@ -64,6 +64,7 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **Satyajit Pradhan** - [Satyajiit](https://github.com/satyajiit)
   * **liquidator007** - [liquidator007](https://github.com/liquidator007)
   * **Kevin M. Weiss** - [unomar](https://github.com/unomar)
+  * **Chris Kielholz** - [enorion](https://github.com/enorion)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
