@@ -65,6 +65,10 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **liquidator007** - [liquidator007](https://github.com/liquidator007)
   * **Kevin M. Weiss** - [unomar](https://github.com/unomar)
   * **Chris Kielholz** - [enorion](https://github.com/enorion)
+  * **Colin Walsh** - [Colin Walsh](https://github.com/cmwalshWVU)
+  * **AthilaMatheusBorges** - [AthilaMatheusBorges](https://github.com/AthilaMatheusBorges)
+  * **Kartik Arora** - [kartikarora](https://github.com/kartikarora)
+  * **Natalie Kerby** - [ndkerby](https://github.com/ndkerby)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
