@@ -1,24 +1,27 @@
+import scala.util.Random._
+
 object Quicksort {
 
   def quickSort(l: Array[Int]): Array[Int] = {
 
-    def swap(l: Array[Int], x: Int. y: Int): Array[Int] = {
-      def loop(l: Array[Int], n: Array[Int], x: Int, y: Int, i: Int): Array[Int] = {
-        if(i >= l.size) n
-        else if(i == x) loop(l, n :+ l(y), x, y, i+1)
-        else if(i == y) loop(l, n :+ l(x), x, y, i+1)
-        else loop(l, n :+ l(i), x, y, i+1)
-      }
-      loop(l, Array[Int](), x, y, 0)
-    }
+    def findBig(ls: Array[Int]) = 
+      for(y <- 0 to ls.size -2 if ls(y) > ls.last) yield ls(y)
 
-    def go
-    
+    def findSmall(ls: Array[Int]) = 
+      for(y <- 0 to ls.size -2 if ls(y) <= ls.last) yield ls(y)
 
+    if(l.size <= 1) l 
+    else quickSort(findSmall(l).toArray) ++ Array(l.last) ++ quickSort(findBig(l).toArray)
   }
 
   def main(args: Array[String]) = {
-    println("Working")
+    println("QuickSort in Scala")
+    val testData = (for(y <- 0 to 25) yield nextInt(1000000)).toArray
+    println("Unsorted:")
+    println(testData.mkString(" "))
+    val res = quickSort(testData)
+    println("Sorted:")
+    println(res.mkString(" "))
   }
 
 }
