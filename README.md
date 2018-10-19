@@ -66,6 +66,7 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **Kevin M. Weiss** - [unomar](https://github.com/unomar)
   * **Chris Kielholz** - [enorion](https://github.com/enorion)
   * **Colin Walsh** - [Colin Walsh](https://github.com/cmwalshWVU)
+  * **Denys Lins** - [DenysLins](https://github.com/DenysLins)
   * **AthilaMatheusBorges** - [AthilaMatheusBorges](https://github.com/AthilaMatheusBorges)
   * **Kartik Arora** - [kartikarora](https://github.com/kartikarora)
   * **Natalie Kerby** - [ndkerby](https://github.com/ndkerby)
