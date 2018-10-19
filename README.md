@@ -71,7 +71,6 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **Kartik Arora** - [kartikarora](https://github.com/kartikarora)
   * **Natalie Kerby** - [ndkerby](https://github.com/ndkerby)
   * **Denys Lins** - [DenysLins](https://github.com/DenysLins)
-  * **Yatri Patel** - [yatri1609](https://github.com/yatri1609)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
