@@ -70,11 +70,11 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **AthilaMatheusBorges** - [AthilaMatheusBorges](https://github.com/AthilaMatheusBorges)
   * **Kartik Arora** - [kartikarora](https://github.com/kartikarora)
   * **Natalie Kerby** - [ndkerby](https://github.com/ndkerby)
-  * **Denys Lins** - [DenysLins](https://github.com/DenysLins)
-<<<<<<< HEAD
   * **Yatri Patel** - [yatri1609](https://github.com/yatri1609)
-=======
->>>>>>> 96c2c9008b011059e65fe82e8ca12bf5acfb51e0
+  * **Justin Doty** - [JustinDoty60](https://github.com/JustinDoty60)
+  * **gasilly** - [gasilly](https://github.com/gasilly)
+  * **lokke-me** - [lokke-me](https://github.com/lokke-me)
+  * **Manika Sharma** - [manikasharma09](https://github.com/manikasharma09)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
