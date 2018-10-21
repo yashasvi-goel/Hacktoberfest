@@ -77,6 +77,6 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **Manika Sharma** - [manikasharma09](https://github.com/manikasharma09)
   * **Ashish Yadav** - [ay3524](https://github.com/ay3524)
   * **Siuanny Barbosa** - [siuannybsr](https://github.com/siuannybsr)
-
+ * **Steven T** - [z717](https://github.com/z717)
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
