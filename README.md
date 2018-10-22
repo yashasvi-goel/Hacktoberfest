@@ -80,6 +80,7 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **Shashank Gupta** - [AkkiShashank](https://github.com/AkkiShashank)
   * **Steven T** - [z717](https://github.com/z717)
   * **Welligton Miguel** - [I-am-Miguel](https://github.com/I-am-Miguel)
+  * **lokke-me** - [lokke-me](https://github.com/lokke-me)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
